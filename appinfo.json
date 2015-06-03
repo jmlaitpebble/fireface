@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jmlait",
+    "longName": "Fire",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Fire",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "1c59a031-982e-49e9-9146-df08bc9400f2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
